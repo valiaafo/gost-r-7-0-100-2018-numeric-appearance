@@ -596,7 +596,7 @@
     <layout>
       <text macro="bibliography"/>
     </layout>
-    <layout suffix=".">
+    <layout>
       <text macro="bibliography"/>
     </layout>
   </bibliography>
