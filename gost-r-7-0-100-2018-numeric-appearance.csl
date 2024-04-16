@@ -593,11 +593,5 @@
       <key macro="author-title"/>
       <key variable="issued"/> -->
     </sort>
-    <layout>
-      <text macro="bibliography"/>
-    </layout>
-    <layout>
-      <text macro="bibliography"/>
-    </layout>
   </bibliography>
 </style>
