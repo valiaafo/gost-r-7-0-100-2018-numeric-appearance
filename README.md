@@ -1,0 +1,1 @@
+# gost-r-7-0-100-2018-numeric-appearance
